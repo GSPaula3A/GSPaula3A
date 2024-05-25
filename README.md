@@ -1,4 +1,4 @@
-## Olá, Bem-vindO o meu perfil👋
+## Olá, Bem-vindo ao meu perfil👋
 
 Meu nome é Giovana Silva
 
