@@ -1,6 +1,6 @@
 ## Olá, Bem-vindo ao meu perfil👋
 
-Meu nome é Giovana Silva
+Meu nome é Giovana Silva.
 
 Estou aprimorando minhas habilidades em JavaScript através dos cursos da Alura. Este espaço é dedicado à organização e ao compartilhamento dos meus projetos.🖤
 
